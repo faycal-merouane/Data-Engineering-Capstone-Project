@@ -69,6 +69,14 @@ In addition data files, this project includes the following files:
 fisrt of all make sure to copy all data files used to HDFS cluster and change database config file `config.cfg` then run the  etl_create_and_drop_tables.py to create tables in database after taht we can run the python notebook `Capstone Project Template.ipynb`.
 
 
+### result visualization
+finally using a data exploration software like apache supperset who help us to create a great visualisation : 
+
+
+<img src="./country_by_gender.png" width="600">
+
+<img src="./udacity.png" width="600">
+
 
 
 
