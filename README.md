@@ -73,7 +73,9 @@ fisrt of all make sure to copy all data files used to HDFS cluster and change da
 finally using a data exploration software like apache supperset who help us to create a great visualisation : 
 
 
-<img src="./country_by_gender.png" width="600">
+
+<img src="./country_by_gender.PNG" width="600">
+
 
 <img src="./udacity.png" width="600">
 
